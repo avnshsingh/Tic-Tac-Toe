@@ -1,7 +1,6 @@
 /*
  * Tic Tac Toe
-By Somya Srivastava 
-P. Sai Mounika
+    By Avinash Singh
  */
 
 
