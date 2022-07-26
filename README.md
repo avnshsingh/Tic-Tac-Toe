@@ -11,14 +11,14 @@
 2. You have the choice of playing first, otherwise the computer plays first.
 ![image](https://user-images.githubusercontent.com/107808248/180945052-bca4da41-a5a2-41ca-bbe4-7ccd8a8733bf.png)
 
-4. The computer automatically plays after you turn.
+3. The computer automatically plays after you turn.
 ![image](https://user-images.githubusercontent.com/107808248/180945172-2cefe4c0-2915-445c-89c7-d68e7dfb6b04.png)
 
-5. There is a score board to keep track of the user's points and the computer's point (and ties also!)
+4. There is a score board to keep track of the user's points and the computer's point (and ties also!)
 
 ![image](https://user-images.githubusercontent.com/107808248/180945325-9d420699-ad44-4e8d-a601-7562491c60ca.png)
 
-6. Click on "Reset" Button to reset the scores.
+5. Click on "Reset" Button to reset the scores.
 
 ![image](https://user-images.githubusercontent.com/107808248/180945459-0c0d8c62-d719-4847-b4d1-e569e95aed50.png)
 
